@@ -1,0 +1,101 @@
+Resource_ID,Resource_Name,Category,Department,Classification,Criticality,Description
+RS001,FINA_Database_01,Database,Finance,Confidential,High,Confidential database operated by Finance
+RS002,FINA_Application_02,Application,Finance,Internal,Medium,Internal application operated by Finance
+RS003,FINA_Repository_03,Repository,Finance,Confidential,High,Confidential repository operated by Finance
+RS004,FINA_Portal_04,Portal,Finance,Restricted,Critical,Restricted portal operated by Finance
+RS005,FINA_Service_05,Service,Finance,Public,Low,Public service operated by Finance
+RS006,FINA_Database_06,Database,Finance,Confidential,High,Confidential database operated by Finance
+RS007,FINA_Application_07,Application,Finance,Confidential,High,Confidential application operated by Finance
+RS008,FINA_Repository_08,Repository,Finance,Restricted,Critical,Restricted repository operated by Finance
+RS009,FINA_Portal_09,Portal,Finance,Confidential,High,Confidential portal operated by Finance
+RS010,FINA_Service_10,Service,Finance,Internal,Medium,Internal service operated by Finance
+RS011,HUMA_Database_01,Database,Human Resources,Internal,Medium,Internal database operated by Human Resources
+RS012,HUMA_Application_02,Application,Human Resources,Confidential,High,Confidential application operated by Human Resources
+RS013,HUMA_Repository_03,Repository,Human Resources,Public,Low,Public repository operated by Human Resources
+RS014,HUMA_Portal_04,Portal,Human Resources,Restricted,Critical,Restricted portal operated by Human Resources
+RS015,HUMA_Service_05,Service,Human Resources,Restricted,Critical,Restricted service operated by Human Resources
+RS016,HUMA_Database_06,Database,Human Resources,Internal,Medium,Internal database operated by Human Resources
+RS017,HUMA_Application_07,Application,Human Resources,Restricted,Critical,Restricted application operated by Human Resources
+RS018,HUMA_Repository_08,Repository,Human Resources,Restricted,Critical,Restricted repository operated by Human Resources
+RS019,HUMA_Portal_09,Portal,Human Resources,Public,Low,Public portal operated by Human Resources
+RS020,HUMA_Service_10,Service,Human Resources,Confidential,High,Confidential service operated by Human Resources
+RS021,INFO_Database_01,Database,Information Technology,Restricted,Critical,Restricted database operated by Information Technology
+RS022,INFO_Application_02,Application,Information Technology,Internal,Medium,Internal application operated by Information Technology
+RS023,INFO_Repository_03,Repository,Information Technology,Confidential,High,Confidential repository operated by Information Technology
+RS024,INFO_Portal_04,Portal,Information Technology,Restricted,Critical,Restricted portal operated by Information Technology
+RS025,INFO_Service_05,Service,Information Technology,Confidential,High,Confidential service operated by Information Technology
+RS026,INFO_Database_06,Database,Information Technology,Restricted,Critical,Restricted database operated by Information Technology
+RS027,INFO_Application_07,Application,Information Technology,Confidential,High,Confidential application operated by Information Technology
+RS028,INFO_Repository_08,Repository,Information Technology,Confidential,High,Confidential repository operated by Information Technology
+RS029,INFO_Portal_09,Portal,Information Technology,Restricted,Critical,Restricted portal operated by Information Technology
+RS030,INFO_Service_10,Service,Information Technology,Confidential,High,Confidential service operated by Information Technology
+RS031,SECU_Database_01,Database,Security Operations,Internal,Medium,Internal database operated by Security Operations
+RS032,SECU_Application_02,Application,Security Operations,Confidential,High,Confidential application operated by Security Operations
+RS033,SECU_Repository_03,Repository,Security Operations,Public,Low,Public repository operated by Security Operations
+RS034,SECU_Portal_04,Portal,Security Operations,Confidential,High,Confidential portal operated by Security Operations
+RS035,SECU_Service_05,Service,Security Operations,Confidential,High,Confidential service operated by Security Operations
+RS036,SECU_Database_06,Database,Security Operations,Confidential,High,Confidential database operated by Security Operations
+RS037,SECU_Application_07,Application,Security Operations,Confidential,High,Confidential application operated by Security Operations
+RS038,SECU_Repository_08,Repository,Security Operations,Restricted,Critical,Restricted repository operated by Security Operations
+RS039,SECU_Portal_09,Portal,Security Operations,Confidential,High,Confidential portal operated by Security Operations
+RS040,SECU_Service_10,Service,Security Operations,Internal,Medium,Internal service operated by Security Operations
+RS041,LEGA_Database_01,Database,Legal and Compliance,Public,Low,Public database operated by Legal and Compliance
+RS042,LEGA_Application_02,Application,Legal and Compliance,Internal,Medium,Internal application operated by Legal and Compliance
+RS043,LEGA_Repository_03,Repository,Legal and Compliance,Confidential,High,Confidential repository operated by Legal and Compliance
+RS044,LEGA_Portal_04,Portal,Legal and Compliance,Confidential,High,Confidential portal operated by Legal and Compliance
+RS045,LEGA_Service_05,Service,Legal and Compliance,Confidential,High,Confidential service operated by Legal and Compliance
+RS046,LEGA_Database_06,Database,Legal and Compliance,Confidential,High,Confidential database operated by Legal and Compliance
+RS047,LEGA_Application_07,Application,Legal and Compliance,Restricted,Critical,Restricted application operated by Legal and Compliance
+RS048,LEGA_Repository_08,Repository,Legal and Compliance,Internal,Medium,Internal repository operated by Legal and Compliance
+RS049,LEGA_Portal_09,Portal,Legal and Compliance,Confidential,High,Confidential portal operated by Legal and Compliance
+RS050,LEGA_Service_10,Service,Legal and Compliance,Confidential,High,Confidential service operated by Legal and Compliance
+RS051,SALE_Database_01,Database,Sales,Public,Low,Public database operated by Sales
+RS052,SALE_Application_02,Application,Sales,Internal,Medium,Internal application operated by Sales
+RS053,SALE_Repository_03,Repository,Sales,Internal,Medium,Internal repository operated by Sales
+RS054,SALE_Portal_04,Portal,Sales,Internal,Medium,Internal portal operated by Sales
+RS055,SALE_Service_05,Service,Sales,Internal,Medium,Internal service operated by Sales
+RS056,SALE_Database_06,Database,Sales,Restricted,Critical,Restricted database operated by Sales
+RS057,SALE_Application_07,Application,Sales,Public,Low,Public application operated by Sales
+RS058,SALE_Repository_08,Repository,Sales,Restricted,Critical,Restricted repository operated by Sales
+RS059,SALE_Portal_09,Portal,Sales,Public,Low,Public portal operated by Sales
+RS060,SALE_Service_10,Service,Sales,Restricted,Critical,Restricted service operated by Sales
+RS061,MARK_Database_01,Database,Marketing,Confidential,High,Confidential database operated by Marketing
+RS062,MARK_Application_02,Application,Marketing,Confidential,High,Confidential application operated by Marketing
+RS063,MARK_Repository_03,Repository,Marketing,Confidential,High,Confidential repository operated by Marketing
+RS064,MARK_Portal_04,Portal,Marketing,Confidential,High,Confidential portal operated by Marketing
+RS065,MARK_Service_05,Service,Marketing,Internal,Medium,Internal service operated by Marketing
+RS066,MARK_Database_06,Database,Marketing,Internal,Medium,Internal database operated by Marketing
+RS067,MARK_Application_07,Application,Marketing,Restricted,Critical,Restricted application operated by Marketing
+RS068,MARK_Repository_08,Repository,Marketing,Confidential,High,Confidential repository operated by Marketing
+RS069,MARK_Portal_09,Portal,Marketing,Confidential,High,Confidential portal operated by Marketing
+RS070,MARK_Service_10,Service,Marketing,Internal,Medium,Internal service operated by Marketing
+RS071,RESE_Database_01,Database,Research and Development,Public,Low,Public database operated by Research and Development
+RS072,RESE_Application_02,Application,Research and Development,Confidential,High,Confidential application operated by Research and Development
+RS073,RESE_Repository_03,Repository,Research and Development,Public,Low,Public repository operated by Research and Development
+RS074,RESE_Portal_04,Portal,Research and Development,Restricted,Critical,Restricted portal operated by Research and Development
+RS075,RESE_Service_05,Service,Research and Development,Restricted,Critical,Restricted service operated by Research and Development
+RS076,RESE_Database_06,Database,Research and Development,Restricted,Critical,Restricted database operated by Research and Development
+RS077,RESE_Application_07,Application,Research and Development,Confidential,High,Confidential application operated by Research and Development
+RS078,RESE_Repository_08,Repository,Research and Development,Public,Low,Public repository operated by Research and Development
+RS079,RESE_Portal_09,Portal,Research and Development,Restricted,Critical,Restricted portal operated by Research and Development
+RS080,RESE_Service_10,Service,Research and Development,Restricted,Critical,Restricted service operated by Research and Development
+RS081,PROC_Database_01,Database,Procurement,Confidential,High,Confidential database operated by Procurement
+RS082,PROC_Application_02,Application,Procurement,Restricted,Critical,Restricted application operated by Procurement
+RS083,PROC_Repository_03,Repository,Procurement,Confidential,High,Confidential repository operated by Procurement
+RS084,PROC_Portal_04,Portal,Procurement,Confidential,High,Confidential portal operated by Procurement
+RS085,PROC_Service_05,Service,Procurement,Restricted,Critical,Restricted service operated by Procurement
+RS086,PROC_Database_06,Database,Procurement,Confidential,High,Confidential database operated by Procurement
+RS087,PROC_Application_07,Application,Procurement,Restricted,Critical,Restricted application operated by Procurement
+RS088,PROC_Repository_08,Repository,Procurement,Internal,Medium,Internal repository operated by Procurement
+RS089,PROC_Portal_09,Portal,Procurement,Confidential,High,Confidential portal operated by Procurement
+RS090,PROC_Service_10,Service,Procurement,Confidential,High,Confidential service operated by Procurement
+RS091,CUST_Database_01,Database,Customer Support,Public,Low,Public database operated by Customer Support
+RS092,CUST_Application_02,Application,Customer Support,Confidential,High,Confidential application operated by Customer Support
+RS093,CUST_Repository_03,Repository,Customer Support,Public,Low,Public repository operated by Customer Support
+RS094,CUST_Portal_04,Portal,Customer Support,Internal,Medium,Internal portal operated by Customer Support
+RS095,CUST_Service_05,Service,Customer Support,Internal,Medium,Internal service operated by Customer Support
+RS096,CUST_Database_06,Database,Customer Support,Confidential,High,Confidential database operated by Customer Support
+RS097,CUST_Application_07,Application,Customer Support,Internal,Medium,Internal application operated by Customer Support
+RS098,CUST_Repository_08,Repository,Customer Support,Internal,Medium,Internal repository operated by Customer Support
+RS099,CUST_Portal_09,Portal,Customer Support,Internal,Medium,Internal portal operated by Customer Support
+RS100,CUST_Service_10,Service,Customer Support,Public,Low,Public service operated by Customer Support

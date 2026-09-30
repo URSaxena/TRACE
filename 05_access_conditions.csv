@@ -1,0 +1,7 @@
+Condition_ID,Condition_Name,Description
+C001,Working_Hours_Only,Access permitted only during defined working hours
+C002,Secure_Access_Only,Access permitted only over an encrypted channel
+C003,MFA_Required,Multi-factor authentication required prior to access
+C004,VPN_Required,Access permitted only via corporate VPN
+C005,Supervisor_Approval_Required,Access requires prior supervisor approval
+C006,No_Condition,No additional condition beyond role validation

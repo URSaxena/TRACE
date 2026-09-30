@@ -1,0 +1,5 @@
+Classification_ID,Classification_Level,Description
+CL001,Public,Public sensitivity level
+CL002,Internal,Internal sensitivity level
+CL003,Confidential,Confidential sensitivity level
+CL004,Restricted,Restricted sensitivity level

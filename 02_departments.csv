@@ -1,0 +1,11 @@
+Department_ID,Department_Name,Business_Function,Description
+D001,Finance,Financial Management,Financial Management function of the enterprise
+D002,Human Resources,Workforce Management,Workforce Management function of the enterprise
+D003,Information Technology,IT Infrastructure,IT Infrastructure function of the enterprise
+D004,Security Operations,Cyber Defence,Cyber Defence function of the enterprise
+D005,Legal and Compliance,Regulatory Compliance,Regulatory Compliance function of the enterprise
+D006,Sales,Revenue Generation,Revenue Generation function of the enterprise
+D007,Marketing,Brand and Demand,Brand and Demand function of the enterprise
+D008,Research and Development,Innovation,Innovation function of the enterprise
+D009,Procurement,Sourcing and Vendors,Sourcing and Vendors function of the enterprise
+D010,Customer Support,Client Servicing,Client Servicing function of the enterprise

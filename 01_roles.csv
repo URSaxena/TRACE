@@ -1,0 +1,13 @@
+Role_ID,Role_Name,Department,Role_Level,Description,Default_Access_Level
+R001,Finance Analyst,Finance,Operational,Finance Analyst operating within Finance,Standard
+R002,HR Manager,Human Resources,Managerial,HR Manager operating within Human Resources,Elevated
+R003,Cloud Administrator,Information Technology,Administrative,Cloud Administrator operating within Information Technology,Elevated
+R004,Database Administrator,Information Technology,Administrative,Database Administrator operating within Information Technology,Elevated
+R005,Security Analyst,Security Operations,Operational,Security Analyst operating within Security Operations,Standard
+R006,Compliance Officer,Legal and Compliance,Managerial,Compliance Officer operating within Legal and Compliance,Elevated
+R007,Sales Executive,Sales,Operational,Sales Executive operating within Sales,Standard
+R008,Marketing Manager,Marketing,Managerial,Marketing Manager operating within Marketing,Elevated
+R009,Data Scientist,Research and Development,Operational,Data Scientist operating within Research and Development,Standard
+R010,Software Engineer,Research and Development,Operational,Software Engineer operating within Research and Development,Standard
+R011,Procurement Officer,Procurement,Operational,Procurement Officer operating within Procurement,Standard
+R012,Customer Support Agent,Customer Support,Operational,Customer Support Agent operating within Customer Support,Standard

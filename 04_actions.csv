@@ -1,0 +1,9 @@
+Action_ID,Action_Name,Description
+A001,Read,View resource content without modification
+A002,Write,Create new resource content
+A003,Download,Retrieve and download resource content
+A004,Upload,Upload new content to the resource
+A005,Modify,Update existing resource content
+A006,Delete,Permanently remove resource content
+A007,Execute,"Run, invoke or trigger the resource or service"
+A008,Approve,Authorize a pending access or change request
